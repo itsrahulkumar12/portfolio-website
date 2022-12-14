@@ -18,11 +18,10 @@ const About = () => {
                 </div>
                 <div className='pl-4'>
                     <p>
-                        I am passionate about building excellent software that improves
-                        the lives of tose around me. I specialize in creating software 
+                        I am passionate about building excellent responsive UI of the Website that helps in making the beautiful, smooth working website. 
+                        I specialize in creating websites 
                         for clients ranging from individuals and small businesses all 
-                        the way to large enterprise corporations. What would you do if
-                        you had a software expert available at your finguretips?
+                        the way to large enterprise corporations.
                     </p>
                 </div>
             </div>

@@ -63,21 +63,21 @@ const Navbar = () => {
             <ul>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-700'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href="/">
+                    href="https://www.linkedin.com/in/rahul-kumar-aab661164/">
                         Linkdin <FaLinkedin size={30}/>
                     </a>
                 </li>
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#222222]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href="/">
+                    href="https://github.com/itsrahulkumar12">
                         Github <FaGithub size={30}/>
                     </a>
                 </li>
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-600'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href="/">
+                    href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcRzCpPPWFSFMqqmqTrPVFQHGTbkpkxvPsCsxgLfPhbCjBQWCzrvXlkMGXLvJtVwxflzppbKn">
                         Gmail <HiOutlineMail size={30}/>
                     </a>
                 </li>
